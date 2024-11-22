@@ -1,3 +1,4 @@
+git: https://github.com/frangoteam/FUXA  
 ![fuxa logo](/client/src/favicon.ico) 
 # FUXA
 FUXA is a web-based Process Visualization (SCADA/HMI/Dashboard) software. With FUXA you can create modern process visualizations with individual designs for your machines and real-time data display.
